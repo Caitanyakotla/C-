@@ -1,8 +1,4 @@
-##########################################################################
-# This is the Cake bootstrapper script for PowerShell.
 
-# Change this file according to your path
-##########################################################################
 <#
 .SYNOPSIS
 This is a Powershell script to bootstrap a Cake build.
