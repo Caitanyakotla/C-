@@ -22,9 +22,6 @@ Performs a dry run.
 .PARAMETER SkipToolPackageRestore
 Skips restoring of packages.
 .PARAMETER ScriptArgs
-Remaining arguments are added here.
-.LINK
-https://cakebuild.net
 #>
 
 [CmdletBinding()]
