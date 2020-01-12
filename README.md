@@ -1,4 +1,4 @@
-# C-Sharp-Automation-Script
+# C-Sharp-Automation-Script To run .net applications
 Cake Build
 
 Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
